@@ -16,6 +16,9 @@
         git add README.md
     ```
 - Realizo el commit
+    ``` bash
+        git commit -m "Inicio del Proyecto"
+    ```
 - Vinculo con la nube
 - Realizo el **push**
 
